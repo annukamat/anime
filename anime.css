@@ -1,0 +1,58 @@
+.box{
+	position: relative;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	margin: 4px;
+}
+
+.boxes{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+#buttons{
+	padding: 20px;
+	background: #f4f4f4;
+	margin-bottom: 20px;
+}
+
+#buttons button{
+	background: #f4f4f4;
+	padding: 10px;
+	border: 0;
+
+}
+
+#buttons .fa{
+	font-size: 40px;
+}
+
+#buttons .fa-play-circle{
+	color: red;
+}
+
+#buttons .fa-pause-circle{
+	color: green;
+}
+
+.red{
+	background: red;
+}
+
+.green{
+	background: green;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.blue{
+	background: blue;
+}
+
+h1{
+	text-align: center;
+}
